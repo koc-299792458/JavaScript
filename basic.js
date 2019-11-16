@@ -1,6 +1,6 @@
-console.log.print('Beginging of end');
+console.log('Beginging of end');
 
 let a = 'hello world';
 
-console.log.print(a);
+console.log(a);
 
